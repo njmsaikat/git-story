@@ -4,7 +4,3 @@
 - Working Area
 - Index
 - Repository
-
-** Index
-- stage changes from working area to index 
-- commit changes from index to the repository
