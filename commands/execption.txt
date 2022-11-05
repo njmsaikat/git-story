@@ -1,0 +1,2 @@
+- git diff (difference between working area and index)
+- git status (condition of commit, changes or staging area)

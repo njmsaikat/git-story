@@ -1,6 +1,0 @@
-## 4 Areas
-
-- Stash
-- WOrking Area
-- Index
-- Repository

@@ -1,0 +1,12 @@
+# Git Objects
+
+1. blob (Content)
+2. tree (Folders or Directories)
+3. commit (Snapshot- A freeze frame of project history pointing to commits, trees and blobs)
+4. tag (Attached to commits)
+
+** Branch - Reference to a commit
+
+** Head (Usually pointing to a branch)- That's the current branch
+
+** There is always one current commit. Move Head to another commit (git switch or checkout)
