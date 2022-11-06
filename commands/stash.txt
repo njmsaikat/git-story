@@ -1,0 +1,5 @@
+# Stash 
+
+1. git stash (stash changes)
+2. git stash list (list of stashed changes)
+3. git stash apply (Get back last stash to current stage)
